@@ -8,7 +8,9 @@ If you're familiar with git, then you can simply clone the repo.
 
 Every attendee will need a laptop, and ideally some headphones - or it will get _very_ noisy.
 
-Put up the link to this repo:
+Some slides are available in the `slides/` dir of this repo.
+
+Put up the link to this repo if you're not using the supplied slides:
 
     https://bit.ly/2T4TF5Q
 
