@@ -10,7 +10,7 @@ Every attendee will need a laptop, and ideally some headphones - or it will get 
 
 You might want to encourage people to download a text editor like Atom or Sublime and Sonic Pi _before_ the session:
 
-- [Sonic Pi](https://github.com/the-frey/intro-to-programming-workshop)
+- [Sonic Pi](https://sonic-pi.net/)
 - [Atom](https://atom.io/)
 
 Some slides are available in the `slides/` dir of this repo.
