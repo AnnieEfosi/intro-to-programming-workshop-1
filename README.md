@@ -1,4 +1,4 @@
-# Web design and Sonic PI workshop
+# Web design and Sonic Pi workshop
 
 Please download these files by clicking the download button on the top right of the navigation, and selecting 'download as zip'.
 
@@ -19,7 +19,7 @@ Running order:
 - Web workshop [30 mins]
 - Q&A [5 mins]
 - Break [10 mins]
-- Sonic PI workshop [30 mins]
+- Sonic Pi workshop [30 mins]
 - Wrap-up and Q&A [10 mins]
 
 Running time: 1:35
@@ -51,7 +51,10 @@ Resources:
 
 - [Bootstrap site](https://getbootstrap.com/)
 
-### Sonic PI workshop
+### Sonic Pi workshop
+
+> I see software primarily as a form of communication that is not just limited to a conversation between a programmer and the computer.
+> - Dr. Sam Aaron, creator of Sonic Pi
 
 Goal: Show the basics of programming - variables and functions - before going into Sonic PI-specific features
 
@@ -72,10 +75,10 @@ Although data structures are not covered by the four example lessons, it should 
 
 Resources:
 
-- [Sonic PI](https://sonic-pi.net/)
-- [Sonic PI docs](https://sonic-pi.net/tutorial.html)
-- [Sonic PI cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/media/sonic-pi-cheatsheet.pdf)
-- [Sonic PI book](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
+- [Sonic Pi](https://sonic-pi.net/)
+- [Sonic Pi docs](https://sonic-pi.net/tutorial.html)
+- [Sonic Pi cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/media/sonic-pi-cheatsheet.pdf)
+- [Sonic Pi book](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
 - [Overtone](https://github.com/overtone/overtone)
 
 
